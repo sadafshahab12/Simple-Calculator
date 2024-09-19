@@ -1,31 +1,159 @@
+@media only screen and (max-width: 376px) {
+  html {
+    font-size: 32%;
+  }
+  .container {
+    background-color: rgb(11 150 173 / 41%);
+    min-height: 60rem;
+    width: 60rem;
+  }
 
-@media only screen and (max-width: 376px){
-    html {
-        font-size: 42%;
-    }
+  .input {
+    display: block;
+  }
+  #first-num,
+  #sec-num {
+    display: block;
+    margin-bottom: 2rem;
+  }
+
+  .first label,
+  .second label {
+    font-size: 2.5rem;
+  }
+  .first input,
+  .second input {
+    height: 7rem;
+    font-size: 3rem;
+    padding: 0;
+    width: 100%;
+  }
+
+  .btn button {
+    width: 10rem;
+    height: 10rem;
+    cursor: pointer;
+    font-size: 5rem;
+  }
+
+  #answer {
+    font-size: 3rem;
+  }
+  #reset {
+    height: 7rem;
+    padding: 0;
+    width: 100%;
+    font-size: 3rem;
+  }
 }
-@media only screen and (max-width: 321px){
-    html {
-        font-size: 37%;
-    }
+@media only screen and (max-width: 321px) {
+  html {
+    font-size: 30%;
+  }
+  .container {
+    background-color: rgb(11 150 173 / 41%);
+    min-height: 60rem;
+    width: 60rem;
+  }
+
+  .input {
+    display: block;
+  }
+  #first-num,
+  #sec-num {
+    display: block;
+    margin-bottom: 2rem;
+  }
+
+  .first label,
+  .second label {
+    font-size: 2.5rem;
+  }
+  .first input,
+  .second input {
+    height: 7rem;
+    font-size: 3rem;
+    padding: 0;
+    width: 100%;
+  }
+
+  .btn button {
+    width: 10rem;
+    height: 10rem;
+    cursor: pointer;
+    font-size: 5rem;
+  }
+
+  #answer {
+    font-size: 3rem;
+  }
+  #reset {
+    height: 7rem;
+    padding: 0;
+    width: 100%;
+    font-size: 3rem;
+  }
 }
-@media only screen and (max-width: 426px)and  (min-width: 400px){
-    html {
-        font-size: 48%;
-    }
+@media only screen and (max-width: 426px) and (min-width: 400px) {
+  html {
+    font-size: 32%;
+  }
+  .container {
+    background-color: rgb(11 150 173 / 41%);
+    min-height: 60rem;
+    width: 60rem;
+  }
+
+  .input {
+    display: block;
+  }
+  #first-num,
+  #sec-num {
+    display: block;
+    margin-bottom: 2rem;
+  }
+
+  .first label,
+  .second label {
+    font-size: 2.5rem;
+  }
+  .first input,
+  .second input {
+    height: 7rem;
+    font-size: 3rem;
+    padding: 0;
+    width: 100%;
+  }
+
+  .btn button {
+    width: 10rem;
+    height: 10rem;
+    cursor: pointer;
+    font-size: 5rem;
+  }
+
+  #answer {
+    font-size: 3rem;
+  }
+  #reset {
+    height: 7rem;
+    padding: 0;
+    width: 100%;
+    font-size: 3rem;
+  }
 }
-@media only screen and (min-width: 767px) and (max-width: 900px){
-    html {
-        font-size: 60%;
-    }
+@media only screen and (min-width: 767px) and (max-width: 900px) {
+  html {
+    font-size: 60%;
+  }
 }
-@media only screen and (min-width: 1024px) and (max-width: 1200px){
-    html {
-        font-size:80%;
-    }
+@media only screen and (min-width: 1024px) and (max-width: 1200px) {
+  html {
+    font-size: 80%;
+  }
 }
-@media only screen and (min-width: 2559px){
-    html {
-        font-size: 117%;
-    }
+@media only screen and (min-width: 2559px) {
+  html {
+    font-size: 117%;
+  }
 }

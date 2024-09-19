@@ -97,18 +97,7 @@ body {
 .btn button:focus {
   background-color: #11536d;
 }
-.calculate button {
-  display: block;
-  width: 20rem;
-  margin: 3rem auto;
-  padding: 1rem 0;
-  font-size: 2rem;
-  border: 0;
-  outline: 0;
-  border-radius: 1rem;
-  text-transform: capitalize;
-  font-weight: 700;
-}
+
 #answer {
   text-align: center;
   font-size: 2rem;
